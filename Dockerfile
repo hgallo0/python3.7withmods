@@ -1,3 +1,3 @@
-FROM python:3.7-alpine
+FROM python:3
 
 RUN pip install boto3
